@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    width: 100vw;
+    position: fixed;
+	top: 0;
+	z-index: 99999;
+}
+.navbar-brand{
+    margin-left: 10%;
+    font-weight: 900;
+}
+.ml-auto{
+    margin-right: 10%;
+}
+.nav-link{
+font-size: 20px;
+font-weight: 350;
+}
+.nav-link:hover{
+text-decoration: underline;
+font-weight: 600;
+}
+.desN{
+    background: black;
+}
